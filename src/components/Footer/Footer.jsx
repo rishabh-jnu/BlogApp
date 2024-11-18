@@ -16,7 +16,7 @@ function Footer() {
                                 <p className="text-sm text-gray-600">
                                     &copy; Copyright 2024. All Rights Reserved by DevRishabh.
                                 </p>
-                            </div>
+                            </div> 
                         </div>
                     </div>
                     <div className="w-full p-6 md:w-1/2 lg:w-2/12">
