@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Logo from '../logo'
+import Logo from '../Logo'
 
 function Footer() {
   return (
@@ -16,7 +16,7 @@ function Footer() {
                                 <p className="text-sm text-gray-600">
                                     &copy; Copyright 2024. All Rights Reserved by DevRishabh.
                                 </p>
-                            </div> 
+                            </div>
                         </div>
                     </div>
                     <div className="w-full p-6 md:w-1/2 lg:w-2/12">
